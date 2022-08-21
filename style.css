@@ -414,4 +414,21 @@ transition: 1s;
       border: 1px solid #ccc;
   }
       
-  
+  .login-box{
+    max-width: 600px;
+    float: none;
+    margin: 150px auto;
+  }
+  .login-left{
+    background: rgba(211,211,211,0.5);
+    padding: 30px;
+  }
+
+  .registration-right{
+    background: rgba(211,211,211,0.5);
+    padding: 30px;
+  }
+  .form-control{
+    background-color:transparent !important ;
+
+  }

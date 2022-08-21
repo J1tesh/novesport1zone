@@ -1,4 +1,6 @@
 <?php
+session_start();
+$con =mysqli_connect('localhost','id19429947_jitesh_kumar' ,)
 $name =$_POST['name'];
 $visitor_email =$_POST['email'];
 $subject =$_POST['subject'];
